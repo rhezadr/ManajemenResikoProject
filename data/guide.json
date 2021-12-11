@@ -1,0 +1,17 @@
+[
+    {
+        "guide": "Masukkan nilai pada biaya produksi, biaya penjualan, dan banyak data permintaan."
+    },
+    {
+        "guide": "Tekan tombol generate di bawahnya dan akan muncul kolom masukan data permintaan di bawah."
+    },
+    {
+        "guide": "Masukkan nilai untuk tiap-tiap data permintaan."
+    },
+    {
+        "guide": "Tekan tombol submit di bawahnya dan akan muncul hasil perhitungan di kolom result."
+    },
+    {
+        "guide": "Untuk mengulang, lakukan muat ulang halaman."
+    }
+]
